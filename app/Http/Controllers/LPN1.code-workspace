@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../wamp64/www/LPN1"
+		},
+		{
+			"path": "../../../../../../../wamp64/www/proyecto1.1"
+		},
+		{
+			"path": "../../../../../../../wamp64/www/practicaPDO"
+		},
+		{
+			"path": "../../../../../../../wamp64/www/practicaMysqli"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto1.1"
+	}
+}
